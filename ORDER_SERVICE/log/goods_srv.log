@@ -1,0 +1,475 @@
+{"level":"INFO","time":"2024-12-10T15:08:50.035+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T15:08:53.515+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T15:09:29.873+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T15:11:32.361+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T15:11:32.411+0800","caller":"GOODS_SERVICE/main.go:84","msg":"service start..."}
+{"level":"INFO","time":"2024-12-10T15:11:32.411+0800","caller":"GOODS_SERVICE/main.go:116","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T15:16:48.023+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T15:17:00.414+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T15:17:00.462+0800","caller":"GOODS_SERVICE/main.go:84","msg":"service start..."}
+{"level":"INFO","time":"2024-12-10T15:17:00.462+0800","caller":"GOODS_SERVICE/main.go:116","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T15:52:17.595+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T15:52:17.640+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T15:52:17.641+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T15:54:18.131+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T15:54:18.182+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T15:54:18.182+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T16:01:20.891+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:01:20.946+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T16:01:20.948+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T16:05:03.979+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:05:04.040+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T16:05:04.041+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T16:08:48.714+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:08:48.775+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T16:08:48.776+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T16:14:40.226+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:14:40.282+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T16:14:40.283+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T16:14:49.683+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:14:49.740+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T16:14:49.741+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T16:16:36.887+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:16:36.945+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T16:16:36.946+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T16:16:54.385+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:16:54.439+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T16:16:54.440+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T16:26:24.860+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:26:24.917+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T16:26:24.918+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T16:29:50.454+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:29:50.511+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T16:29:50.512+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T16:32:03.377+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:44:33.797+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:45:38.720+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:45:38.783+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T16:45:38.784+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T16:46:01.788+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:46:18.002+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:46:18.057+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T16:46:18.059+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T16:47:43.870+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:47:43.931+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T16:49:16.823+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:49:16.875+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T16:49:16.876+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T16:50:44.300+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:50:44.352+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T16:50:44.354+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T16:52:12.036+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:52:18.923+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:52:18.977+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T16:52:18.978+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T17:01:49.287+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T17:01:49.342+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T17:01:49.343+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-13T13:07:55.680+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-13T13:07:55.742+0800","caller":"STOCK_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8382}
+{"level":"INFO","time":"2024-12-13T13:07:55.743+0800","caller":"STOCK_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8092"}
+{"level":"INFO","time":"2024-12-13T13:28:09.873+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-13T13:28:09.927+0800","caller":"STOCK_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8382}
+{"level":"INFO","time":"2024-12-13T13:28:09.927+0800","caller":"STOCK_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8092"}
+{"level":"INFO","time":"2024-12-13T13:29:03.885+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-13T13:29:03.926+0800","caller":"STOCK_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8382}
+{"level":"INFO","time":"2024-12-13T13:29:03.927+0800","caller":"STOCK_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8092"}
+{"level":"INFO","time":"2024-12-13T13:34:13.434+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-13T13:34:13.478+0800","caller":"STOCK_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8382}
+{"level":"INFO","time":"2024-12-13T13:34:13.478+0800","caller":"STOCK_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8092"}
+{"level":"INFO","time":"2024-12-13T13:41:12.580+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-13T13:41:12.637+0800","caller":"STOCK_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8382}
+{"level":"INFO","time":"2024-12-13T13:41:12.638+0800","caller":"STOCK_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8092"}
+{"level":"INFO","time":"2024-12-13T14:27:32.957+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-13T14:27:33.005+0800","caller":"STOCK_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8382}
+{"level":"INFO","time":"2024-12-13T14:27:33.006+0800","caller":"STOCK_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8092"}
+{"level":"INFO","time":"2024-12-13T14:32:17.296+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-13T14:32:17.351+0800","caller":"STOCK_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8382}
+{"level":"INFO","time":"2024-12-13T14:32:17.352+0800","caller":"STOCK_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8092"}
+{"level":"INFO","time":"2024-12-13T16:01:09.934+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-13T16:01:09.993+0800","caller":"STOCK_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8382}
+{"level":"INFO","time":"2024-12-13T16:01:09.993+0800","caller":"STOCK_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8092"}
+{"level":"INFO","time":"2024-12-13T16:38:18.596+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-13T16:38:18.649+0800","caller":"STOCK_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8382}
+{"level":"INFO","time":"2024-12-13T16:38:18.650+0800","caller":"STOCK_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8092"}
+{"level":"INFO","time":"2024-12-13T16:41:01.825+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-13T16:41:01.875+0800","caller":"STOCK_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8382}
+{"level":"INFO","time":"2024-12-13T16:41:01.876+0800","caller":"STOCK_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8092"}
+{"level":"INFO","time":"2024-12-13T17:41:27.670+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-13T17:41:27.786+0800","caller":"STOCK_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8382}
+{"level":"INFO","time":"2024-12-13T17:41:27.787+0800","caller":"STOCK_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8092"}
+{"level":"INFO","time":"2024-12-13T20:31:31.813+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-13T20:31:31.890+0800","caller":"STOCK_SERVICE/main.go:91","msg":"rpc server start","ip":"127.0.0.1","port":8382}
+{"level":"INFO","time":"2024-12-13T20:31:31.891+0800","caller":"STOCK_SERVICE/main.go:127","msg":"Serving gRPC-Gateway on http://0.0.0.0:8092"}
+{"level":"INFO","time":"2024-12-13T20:33:51.005+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-13T20:33:51.053+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-13T20:33:51.064+0800","caller":"STOCK_SERVICE/main.go:91","msg":"rpc server start","ip":"127.0.0.1","port":8382}
+{"level":"INFO","time":"2024-12-13T20:33:51.065+0800","caller":"STOCK_SERVICE/main.go:127","msg":"Serving gRPC-Gateway on http://0.0.0.0:8092"}
+{"level":"INFO","time":"2024-12-13T20:56:10.092+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-13T20:56:10.138+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-13T20:56:10.146+0800","caller":"STOCK_SERVICE/main.go:91","msg":"rpc server start","ip":"127.0.0.1","port":8382}
+{"level":"INFO","time":"2024-12-13T20:56:10.148+0800","caller":"STOCK_SERVICE/main.go:127","msg":"Serving gRPC-Gateway on http://0.0.0.0:8092"}
+{"level":"INFO","time":"2024-12-14T10:33:24.061+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-14T10:33:24.224+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-14T10:34:08.090+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-14T10:34:08.222+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-14T10:34:08.224+0800","caller":"STOCK_SERVICE/main.go:91","msg":"rpc server start","ip":"127.0.0.1","port":8382}
+{"level":"INFO","time":"2024-12-14T10:34:08.224+0800","caller":"STOCK_SERVICE/main.go:127","msg":"Serving gRPC-Gateway on http://0.0.0.0:8092"}
+{"level":"INFO","time":"2024-12-19T20:09:35.684+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-19T20:09:35.799+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-19T20:14:27.824+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-19T20:14:27.877+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-19T20:39:42.257+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-19T20:39:42.306+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-19T20:40:28.184+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-19T20:40:28.233+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-19T20:40:28.348+0800","caller":"ORDER_SERVICE/main.go:120","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-19T20:40:28.349+0800","caller":"ORDER_SERVICE/main.go:156","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"INFO","time":"2024-12-19T20:59:42.142+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-19T20:59:42.199+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-19T20:59:42.222+0800","caller":"ORDER_SERVICE/main.go:120","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-19T20:59:42.224+0800","caller":"ORDER_SERVICE/main.go:156","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"INFO","time":"2024-12-19T21:00:52.721+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-19T21:00:52.769+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-19T21:00:52.814+0800","caller":"ORDER_SERVICE/main.go:120","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-19T21:00:52.816+0800","caller":"ORDER_SERVICE/main.go:156","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"INFO","time":"2024-12-19T23:20:37.346+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-19T23:20:37.394+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-19T23:20:37.414+0800","caller":"ORDER_SERVICE/main.go:120","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-19T23:20:37.415+0800","caller":"ORDER_SERVICE/main.go:156","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"INFO","time":"2024-12-19T23:21:35.477+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-19T23:21:35.535+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-19T23:21:35.551+0800","caller":"ORDER_SERVICE/main.go:120","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-19T23:21:35.551+0800","caller":"ORDER_SERVICE/main.go:156","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"INFO","time":"2024-12-19T23:22:00.607+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-19T23:22:00.674+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-19T23:22:00.690+0800","caller":"ORDER_SERVICE/main.go:120","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-19T23:22:00.691+0800","caller":"ORDER_SERVICE/main.go:156","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"INFO","time":"2024-12-19T23:31:45.839+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-19T23:31:45.892+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-19T23:31:45.927+0800","caller":"ORDER_SERVICE/main.go:120","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-19T23:31:45.928+0800","caller":"ORDER_SERVICE/main.go:156","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"INFO","time":"2024-12-19T23:32:26.543+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-19T23:32:26.596+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-19T23:32:26.612+0800","caller":"ORDER_SERVICE/main.go:120","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-19T23:32:26.614+0800","caller":"ORDER_SERVICE/main.go:156","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"INFO","time":"2024-12-19T23:45:43.216+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-19T23:45:43.265+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-19T23:45:43.282+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-19T23:45:43.283+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"ERROR","time":"2024-12-19T23:45:51.597+0800","caller":"order/order.go:105","msg":"GoodsCli.GetGoodsDetail failed","error":"rpc error: code = Unavailable desc = last connection error: connection error: desc = \"transport: Error while dialing: dial tcp: address consul://127.0.0.1:8500/goods_srv: too many colons in address\""}
+{"level":"INFO","time":"2024-12-19T23:45:51.597+0800","caller":"order/order.go:232","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A8480184240000000061cbdf980001, offsetMsgId=C0A86E8600002A9F0000000000008ACA, queueOffset=80, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=1]]"}
+{"level":"ERROR","time":"2024-12-19T23:45:51.597+0800","caller":"handler/order.go:35","msg":"order.Create failed","error":"rpc error: code = Internal desc = rpc error: code = Unavailable desc = last connection error: connection error: desc = \"transport: Error while dialing: dial tcp: address consul://127.0.0.1:8500/goods_srv: too many colons in address\""}
+{"level":"INFO","time":"2024-12-19T23:50:37.196+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-19T23:50:37.242+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-19T23:50:37.264+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-19T23:50:37.264+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"ERROR","time":"2024-12-19T23:51:37.370+0800","caller":"order/order.go:105","msg":"GoodsCli.GetGoodsDetail failed","error":"rpc error: code = Unavailable desc = last connection error: connection error: desc = \"transport: Error while dialing: dial tcp: address consul://127.0.0.1:8500/goods_srv: too many colons in address\""}
+{"level":"INFO","time":"2024-12-19T23:51:37.370+0800","caller":"order/order.go:232","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A8480188900000000061d127280001, offsetMsgId=C0A86E8600002A9F0000000000008CDD, queueOffset=81, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=1]]"}
+{"level":"ERROR","time":"2024-12-19T23:51:37.370+0800","caller":"handler/order.go:35","msg":"order.Create failed","error":"rpc error: code = Internal desc = rpc error: code = Unavailable desc = last connection error: connection error: desc = \"transport: Error while dialing: dial tcp: address consul://127.0.0.1:8500/goods_srv: too many colons in address\""}
+{"level":"INFO","time":"2024-12-19T23:57:20.697+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-19T23:57:20.754+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-19T23:57:20.777+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-19T23:57:20.778+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"ERROR","time":"2024-12-19T23:57:21.002+0800","caller":"order/order.go:105","msg":"GoodsCli.GetGoodsDetail failed","error":"rpc error: code = Unavailable desc = last connection error: connection error: desc = \"transport: Error while dialing: dial tcp: address consul://127.0.0.1:8500/goods_srv: too many colons in address\""}
+{"level":"INFO","time":"2024-12-19T23:57:21.002+0800","caller":"order/order.go:232","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A8480173940000000061d663000001, offsetMsgId=C0A86E8600002A9F0000000000008EF0, queueOffset=82, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=1]]"}
+{"level":"ERROR","time":"2024-12-19T23:57:21.002+0800","caller":"handler/order.go:35","msg":"order.Create failed","error":"rpc error: code = Internal desc = rpc error: code = Unavailable desc = last connection error: connection error: desc = \"transport: Error while dialing: dial tcp: address consul://127.0.0.1:8500/goods_srv: too many colons in address\""}
+{"level":"INFO","time":"2024-12-20T00:03:04.896+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T00:03:04.949+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-20T00:03:04.972+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-20T00:03:04.973+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"ERROR","time":"2024-12-20T00:03:15.575+0800","caller":"order/order.go:105","msg":"GoodsCli.GetGoodsDetail failed","error":"rpc error: code = Unavailable desc = last connection error: connection error: desc = \"transport: Error while dialing: dial tcp: address consul://127.0.0.1:8500/goods_srv: too many colons in address\""}
+{"level":"INFO","time":"2024-12-20T00:03:15.575+0800","caller":"order/order.go:232","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A848018A040000000061dbcdb80001, offsetMsgId=C0A86E8600002A9F0000000000009103, queueOffset=83, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=1]]"}
+{"level":"ERROR","time":"2024-12-20T00:03:15.575+0800","caller":"handler/order.go:35","msg":"order.Create failed","error":"rpc error: code = Internal desc = rpc error: code = Unavailable desc = last connection error: connection error: desc = \"transport: Error while dialing: dial tcp: address consul://127.0.0.1:8500/goods_srv: too many colons in address\""}
+{"level":"INFO","time":"2024-12-20T00:06:48.227+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T00:06:48.273+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-20T00:06:48.283+0800","caller":"rpc/rpc.go:35","msg":"Connecting to Consul","Consul Address":"127.0.0.1:8500","Service Name":"goods_srv"}
+{"level":"INFO","time":"2024-12-20T00:06:48.290+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-20T00:06:48.291+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"ERROR","time":"2024-12-20T00:07:33.795+0800","caller":"order/order.go:105","msg":"GoodsCli.GetGoodsDetail failed","error":"rpc error: code = Unavailable desc = last connection error: connection error: desc = \"transport: Error while dialing: dial tcp: address consul://127.0.0.1:8500/goods_srv: too many colons in address\""}
+{"level":"INFO","time":"2024-12-20T00:07:33.795+0800","caller":"order/order.go:232","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A848017F2C0000000061dfbd880001, offsetMsgId=C0A86E8600002A9F0000000000009316, queueOffset=84, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=1]]"}
+{"level":"ERROR","time":"2024-12-20T00:07:33.795+0800","caller":"handler/order.go:35","msg":"order.Create failed","error":"rpc error: code = Internal desc = rpc error: code = Unavailable desc = last connection error: connection error: desc = \"transport: Error while dialing: dial tcp: address consul://127.0.0.1:8500/goods_srv: too many colons in address\""}
+{"level":"INFO","time":"2024-12-20T00:09:40.657+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T00:09:40.709+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-20T00:09:40.735+0800","caller":"rpc/rpc.go:35","msg":"Connecting to Consul","Consul Address":"127.0.0.1:8500","Service Name":"goods_srv"}
+{"level":"INFO","time":"2024-12-20T00:09:40.744+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-20T00:09:40.745+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"ERROR","time":"2024-12-20T01:21:36.569+0800","caller":"order/order.go:105","msg":"GoodsCli.GetGoodsDetail failed","error":"rpc error: code = Unavailable desc = last connection error: connection error: desc = \"transport: Error while dialing: dial tcp: address consul://127.0.0.1:8500/goods_srv: too many colons in address\""}
+{"level":"INFO","time":"2024-12-20T01:21:36.573+0800","caller":"order/order.go:232","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A848016D3C0000000061e1b5700001, offsetMsgId=C0A86E8600002A9F0000000000009529, queueOffset=85, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=1]]"}
+{"level":"ERROR","time":"2024-12-20T01:21:36.573+0800","caller":"handler/order.go:35","msg":"order.Create failed","error":"rpc error: code = Internal desc = rpc error: code = Unavailable desc = last connection error: connection error: desc = \"transport: Error while dialing: dial tcp: address consul://127.0.0.1:8500/goods_srv: too many colons in address\""}
+{"level":"INFO","time":"2024-12-20T01:22:15.797+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T01:22:15.848+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-20T01:22:15.863+0800","caller":"rpc/rpc.go:35","msg":"Connecting to Consul","Consul Address":"127.0.0.1:8500","Service Name":"goods_srv"}
+{"level":"INFO","time":"2024-12-20T01:22:15.874+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-20T01:22:15.875+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"ERROR","time":"2024-12-20T01:22:19.335+0800","caller":"order/order.go:105","msg":"GoodsCli.GetGoodsDetail failed","error":"rpc error: code = Unavailable desc = last connection error: connection error: desc = \"transport: Error while dialing: dial tcp: address consul://127.0.0.1:8500/goods_srv: too many colons in address\""}
+{"level":"INFO","time":"2024-12-20T01:22:19.335+0800","caller":"order/order.go:232","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A848018A2800000000622430f80001, offsetMsgId=C0A86E8600002A9F000000000000B175, queueOffset=101, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=1]]"}
+{"level":"ERROR","time":"2024-12-20T01:22:19.335+0800","caller":"handler/order.go:35","msg":"order.Create failed","error":"rpc error: code = Internal desc = rpc error: code = Unavailable desc = last connection error: connection error: desc = \"transport: Error while dialing: dial tcp: address consul://127.0.0.1:8500/goods_srv: too many colons in address\""}
+{"level":"INFO","time":"2024-12-20T01:39:03.554+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T01:39:03.611+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-20T01:39:03.625+0800","caller":"rpc/rpc.go:35","msg":"Connecting to Consul","Consul Address":"127.0.0.1:8500","Service Name":"goods_srv"}
+{"level":"INFO","time":"2024-12-20T01:39:03.635+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-20T01:39:03.636+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"ERROR","time":"2024-12-20T01:40:07.445+0800","caller":"order/order.go:105","msg":"GoodsCli.GetGoodsDetail failed","error":"rpc error: code = Unavailable desc = last connection error: connection error: desc = \"transport: Error while dialing: dial tcp: address consul://127.0.0.1:8500/goods_srv: too many colons in address\""}
+{"level":"INFO","time":"2024-12-20T01:40:07.448+0800","caller":"order/order.go:232","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A84801783C000000006233f8080001, offsetMsgId=C0A86E8600002A9F000000000000B389, queueOffset=102, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=1]]"}
+{"level":"ERROR","time":"2024-12-20T01:40:07.448+0800","caller":"handler/order.go:35","msg":"order.Create failed","error":"rpc error: code = Internal desc = rpc error: code = Unavailable desc = last connection error: connection error: desc = \"transport: Error while dialing: dial tcp: address consul://127.0.0.1:8500/goods_srv: too many colons in address\""}
+{"level":"INFO","time":"2024-12-20T09:21:24.146+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T09:21:24.197+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-20T09:21:24.252+0800","caller":"rpc/rpc.go:35","msg":"Connecting to Consul","Consul Address":"127.0.0.1:8500","Service Name":"goods_srv"}
+{"level":"INFO","time":"2024-12-20T09:21:24.260+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-20T09:21:24.260+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"ERROR","time":"2024-12-20T09:21:46.942+0800","caller":"order/order.go:105","msg":"GoodsCli.GetGoodsDetail failed","error":"rpc error: code = Unavailable desc = last connection error: connection error: desc = \"transport: Error while dialing: dial tcp: address consul://127.0.0.1:8500/goods_srv: too many colons in address\""}
+{"level":"INFO","time":"2024-12-20T09:21:46.942+0800","caller":"order/order.go:232","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A848015F440000000063db24100001, offsetMsgId=C0A86E8600002A9F000000000000CFD6, queueOffset=118, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=1]]"}
+{"level":"ERROR","time":"2024-12-20T09:21:46.942+0800","caller":"handler/order.go:35","msg":"order.Create failed","error":"rpc error: code = Internal desc = rpc error: code = Unavailable desc = last connection error: connection error: desc = \"transport: Error while dialing: dial tcp: address consul://127.0.0.1:8500/goods_srv: too many colons in address\""}
+{"level":"INFO","time":"2024-12-20T09:46:34.065+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T09:46:34.125+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-20T09:49:16.352+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T09:49:16.401+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-20T09:49:16.424+0800","caller":"rpc/rpc.go:86","msg":"Connecting to GoodsService","Consul Address":"127.0.0.1:8381"}
+{"level":"INFO","time":"2024-12-20T09:49:16.432+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-20T09:49:16.433+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"ERROR","time":"2024-12-20T09:49:33.528+0800","caller":"order/order.go:123","msg":"StockCli.ReduceStock failed","error":"rpc error: code = Unavailable desc = last connection error: connection error: desc = \"transport: Error while dialing: dial tcp: address consul://127.0.0.1:8500/stock_srv: too many colons in address\""}
+{"level":"INFO","time":"2024-12-20T09:49:33.529+0800","caller":"order/order.go:232","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A8480146A80000000063f493c80001, offsetMsgId=C0A86E8600002A9F000000000000D1EA, queueOffset=119, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=1]]"}
+{"level":"ERROR","time":"2024-12-20T09:49:33.529+0800","caller":"handler/order.go:35","msg":"order.Create failed","error":"rpc error: code = Internal desc = ReduceStock failed"}
+{"level":"INFO","time":"2024-12-20T09:56:31.113+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T09:56:31.163+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-20T09:56:31.188+0800","caller":"rpc/rpc.go:86","msg":"Connecting to GoodsService","Consul Address":"127.0.0.1:8381"}
+{"level":"INFO","time":"2024-12-20T09:56:31.191+0800","caller":"rpc/rpc.go:100","msg":"Connecting to StockService","Consul Address":"127.0.0.1:8384"}
+{"level":"INFO","time":"2024-12-20T09:56:31.201+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-20T09:56:31.202+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"ERROR","time":"2024-12-20T09:56:34.308+0800","caller":"order/order.go:153","msg":"CreateOrderWithTransation failed","error":"Error 1406 (22001): Data too long for column 'receive_phone' at row 1"}
+{"level":"INFO","time":"2024-12-20T09:56:34.308+0800","caller":"order/order.go:232","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A848011C2C0000000063fb00500001, offsetMsgId=C0A86E8600002A9F000000000000D3FE, queueOffset=120, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=1]]"}
+{"level":"ERROR","time":"2024-12-20T09:56:34.308+0800","caller":"handler/order.go:35","msg":"order.Create failed","error":"rpc error: code = Aborted desc = create order failed"}
+{"level":"ERROR","time":"2024-12-20T09:57:06.005+0800","caller":"order/order.go:229","msg":"SendMessageInTransaction failed","error":"producer not started"}
+{"level":"ERROR","time":"2024-12-20T09:57:06.005+0800","caller":"handler/order.go:35","msg":"order.Create failed","error":"rpc error: code = Internal desc = create order failed"}
+{"level":"ERROR","time":"2024-12-20T09:57:51.290+0800","caller":"order/order.go:229","msg":"SendMessageInTransaction failed","error":"producer not started"}
+{"level":"ERROR","time":"2024-12-20T09:57:51.290+0800","caller":"handler/order.go:35","msg":"order.Create failed","error":"rpc error: code = Internal desc = create order failed"}
+{"level":"INFO","time":"2024-12-20T10:45:25.323+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T10:45:25.381+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-20T10:45:25.402+0800","caller":"rpc/rpc.go:86","msg":"Connecting to GoodsService","Consul Address":"127.0.0.1:8381"}
+{"level":"INFO","time":"2024-12-20T10:45:25.404+0800","caller":"rpc/rpc.go:100","msg":"Connecting to StockService","Consul Address":"127.0.0.1:8384"}
+{"level":"INFO","time":"2024-12-20T10:45:25.411+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-20T10:45:25.412+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"ERROR","time":"2024-12-20T10:45:35.226+0800","caller":"mq/rocketmq.go:82","msg":"ExecuteLocalTransaction param is nil"}
+{"level":"INFO","time":"2024-12-20T10:45:35.226+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A8480115CC000000006427e0980001, offsetMsgId=C0A86E8600002A9F000000000000D794, queueOffset=121, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=1]]"}
+{"level":"ERROR","time":"2024-12-20T10:45:35.227+0800","caller":"handler/order.go:35","msg":"order.Create failed","error":"rpc error: code = Aborted desc = create order failed"}
+{"level":"INFO","time":"2024-12-20T11:08:09.953+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T11:08:09.999+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-20T11:08:10.021+0800","caller":"rpc/rpc.go:86","msg":"Connecting to GoodsService","Consul Address":"127.0.0.1:8381"}
+{"level":"INFO","time":"2024-12-20T11:08:10.023+0800","caller":"rpc/rpc.go:100","msg":"Connecting to StockService","Consul Address":"127.0.0.1:8384"}
+{"level":"INFO","time":"2024-12-20T11:08:10.030+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-20T11:08:10.031+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"ERROR","time":"2024-12-20T11:08:13.969+0800","caller":"mq/rocketmq.go:86","msg":"ExecuteLocalTransaction param is nil"}
+{"level":"INFO","time":"2024-12-20T11:08:13.969+0800","caller":"order/order.go:111","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A848018A2400000000643c99480001, offsetMsgId=C0A86E8600002A9F000000000000DB2A, queueOffset=122, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=1]]"}
+{"level":"ERROR","time":"2024-12-20T11:08:13.969+0800","caller":"handler/order.go:35","msg":"order.Create failed","error":"rpc error: code = Aborted desc = create order failed"}
+{"level":"INFO","time":"2024-12-20T11:09:21.967+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T11:09:22.016+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-20T11:09:22.076+0800","caller":"rpc/rpc.go:86","msg":"Connecting to GoodsService","Consul Address":"127.0.0.1:8381"}
+{"level":"INFO","time":"2024-12-20T11:09:22.078+0800","caller":"rpc/rpc.go:100","msg":"Connecting to StockService","Consul Address":"127.0.0.1:8384"}
+{"level":"INFO","time":"2024-12-20T11:09:22.084+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-20T11:09:22.086+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"ERROR","time":"2024-12-20T11:09:27.867+0800","caller":"mq/rocketmq.go:86","msg":"ExecuteLocalTransaction param is nil"}
+{"level":"INFO","time":"2024-12-20T11:09:27.867+0800","caller":"order/order.go:111","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A848015B7800000000643dba580001, offsetMsgId=C0A86E8600002A9F000000000000DEC0, queueOffset=123, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=1]]"}
+{"level":"ERROR","time":"2024-12-20T11:09:27.867+0800","caller":"handler/order.go:35","msg":"order.Create failed","error":"rpc error: code = Aborted desc = create order failed"}
+{"level":"INFO","time":"2024-12-20T11:10:26.197+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T11:10:26.242+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-20T11:10:26.271+0800","caller":"rpc/rpc.go:86","msg":"Connecting to GoodsService","Consul Address":"127.0.0.1:8381"}
+{"level":"INFO","time":"2024-12-20T11:10:26.273+0800","caller":"rpc/rpc.go:100","msg":"Connecting to StockService","Consul Address":"127.0.0.1:8384"}
+{"level":"INFO","time":"2024-12-20T11:10:26.281+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-20T11:10:26.282+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"ERROR","time":"2024-12-20T11:10:28.859+0800","caller":"mq/rocketmq.go:87","msg":"Transaction parameters not found"}
+{"level":"INFO","time":"2024-12-20T11:10:28.859+0800","caller":"order/order.go:111","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A8480152F400000000643ea8a00001, offsetMsgId=C0A86E8600002A9F000000000000E256, queueOffset=124, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=1]]"}
+{"level":"INFO","time":"2024-12-20T11:12:20.761+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T11:12:20.821+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-20T11:12:20.840+0800","caller":"rpc/rpc.go:86","msg":"Connecting to GoodsService","Consul Address":"127.0.0.1:8381"}
+{"level":"INFO","time":"2024-12-20T11:12:20.843+0800","caller":"rpc/rpc.go:100","msg":"Connecting to StockService","Consul Address":"127.0.0.1:8384"}
+{"level":"INFO","time":"2024-12-20T11:12:20.852+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-20T11:12:20.854+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"ERROR","time":"2024-12-20T11:13:42.993+0800","caller":"mq/rocketmq.go:87","msg":"Transaction parameters not found"}
+{"level":"INFO","time":"2024-12-20T11:13:42.996+0800","caller":"order/order.go:111","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A8480164A40000000064411d880001, offsetMsgId=C0A86E8600002A9F000000000000E46A, queueOffset=125, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=1]]"}
+{"level":"INFO","time":"2024-12-20T11:14:50.650+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T11:14:50.704+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-20T11:14:50.720+0800","caller":"rpc/rpc.go:86","msg":"Connecting to GoodsService","Consul Address":"127.0.0.1:8381"}
+{"level":"INFO","time":"2024-12-20T11:14:50.722+0800","caller":"rpc/rpc.go:100","msg":"Connecting to StockService","Consul Address":"127.0.0.1:8384"}
+{"level":"INFO","time":"2024-12-20T11:14:50.731+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-20T11:14:50.732+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"ERROR","time":"2024-12-20T11:16:06.597+0800","caller":"mq/rocketmq.go:87","msg":"Transaction parameters not found"}
+{"level":"INFO","time":"2024-12-20T11:16:06.601+0800","caller":"order/order.go:111","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A848017828000000006442fa180001, offsetMsgId=C0A86E8600002A9F000000000000ED0A, queueOffset=130, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=1]]"}
+{"level":"INFO","time":"2024-12-20T11:16:08.750+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T11:16:08.797+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-20T11:16:08.815+0800","caller":"rpc/rpc.go:86","msg":"Connecting to GoodsService","Consul Address":"127.0.0.1:8381"}
+{"level":"INFO","time":"2024-12-20T11:16:08.818+0800","caller":"rpc/rpc.go:100","msg":"Connecting to StockService","Consul Address":"127.0.0.1:8384"}
+{"level":"INFO","time":"2024-12-20T11:16:08.827+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-20T11:16:08.828+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"ERROR","time":"2024-12-20T11:18:11.932+0800","caller":"mq/rocketmq.go:87","msg":"Transaction parameters not found"}
+{"level":"INFO","time":"2024-12-20T11:18:11.934+0800","caller":"order/order.go:111","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A8480161F8000000006444a7c80001, offsetMsgId=C0A86E8600002A9F000000000000FC36, queueOffset=139, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=1]]"}
+{"level":"INFO","time":"2024-12-20T11:18:14.206+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T11:18:14.264+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-20T11:18:14.282+0800","caller":"rpc/rpc.go:86","msg":"Connecting to GoodsService","Consul Address":"127.0.0.1:8381"}
+{"level":"INFO","time":"2024-12-20T11:18:14.284+0800","caller":"rpc/rpc.go:100","msg":"Connecting to StockService","Consul Address":"127.0.0.1:8384"}
+{"level":"INFO","time":"2024-12-20T11:18:14.291+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-20T11:18:14.291+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"ERROR","time":"2024-12-20T11:24:29.743+0800","caller":"mq/rocketmq.go:87","msg":"Transaction parameters not found"}
+{"level":"INFO","time":"2024-12-20T11:24:29.746+0800","caller":"order/order.go:111","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A848012024000000006447e7d00001, offsetMsgId=C0A86E8600002A9F00000000000120B1, queueOffset=161, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=1]]"}
+{"level":"INFO","time":"2024-12-20T11:24:37.363+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T11:24:37.436+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-20T11:24:37.467+0800","caller":"rpc/rpc.go:86","msg":"Connecting to GoodsService","Consul Address":"127.0.0.1:8381"}
+{"level":"INFO","time":"2024-12-20T11:24:37.470+0800","caller":"rpc/rpc.go:100","msg":"Connecting to StockService","Consul Address":"127.0.0.1:8384"}
+{"level":"INFO","time":"2024-12-20T11:24:37.477+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-20T11:24:37.479+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"ERROR","time":"2024-12-20T11:36:50.499+0800","caller":"mq/rocketmq.go:87","msg":"Transaction parameters not found"}
+{"level":"INFO","time":"2024-12-20T11:36:50.501+0800","caller":"order/order.go:111","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A84801864C00000000644cc2000001, offsetMsgId=C0A86E8600002A9F0000000000014B39, queueOffset=184, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=1]]"}
+{"level":"INFO","time":"2024-12-20T11:37:28.576+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T11:37:28.631+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-20T11:37:28.653+0800","caller":"rpc/rpc.go:86","msg":"Connecting to GoodsService","Consul Address":"127.0.0.1:8381"}
+{"level":"INFO","time":"2024-12-20T11:37:28.656+0800","caller":"rpc/rpc.go:100","msg":"Connecting to StockService","Consul Address":"127.0.0.1:8384"}
+{"level":"INFO","time":"2024-12-20T11:37:28.664+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-20T11:37:28.664+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"ERROR","time":"2024-12-20T11:37:31.594+0800","caller":"mq/rocketmq.go:87","msg":"Transaction parameters not found"}
+{"level":"INFO","time":"2024-12-20T11:37:31.594+0800","caller":"order/order.go:111","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A848011B5C0000000064576c780001, offsetMsgId=C0A86E8600002A9F0000000000017160, queueOffset=205, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=1]]"}
+{"level":"INFO","time":"2024-12-20T11:37:55.976+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T11:37:56.029+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-20T11:37:56.048+0800","caller":"rpc/rpc.go:86","msg":"Connecting to GoodsService","Consul Address":"127.0.0.1:8381"}
+{"level":"INFO","time":"2024-12-20T11:37:56.049+0800","caller":"rpc/rpc.go:100","msg":"Connecting to StockService","Consul Address":"127.0.0.1:8384"}
+{"level":"INFO","time":"2024-12-20T11:37:56.057+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-20T11:37:56.058+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"ERROR","time":"2024-12-20T11:40:43.262+0800","caller":"mq/rocketmq.go:87","msg":"Transaction parameters not found"}
+{"level":"INFO","time":"2024-12-20T11:40:43.263+0800","caller":"order/order.go:111","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A848014A68000000006458f3180001, offsetMsgId=C0A86E8600002A9F0000000000017374, queueOffset=206, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=1]]"}
+{"level":"INFO","time":"2024-12-20T11:40:51.657+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T11:40:51.719+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-20T11:40:51.734+0800","caller":"rpc/rpc.go:86","msg":"Connecting to GoodsService","Consul Address":"127.0.0.1:8381"}
+{"level":"INFO","time":"2024-12-20T11:40:51.737+0800","caller":"rpc/rpc.go:100","msg":"Connecting to StockService","Consul Address":"127.0.0.1:8384"}
+{"level":"INFO","time":"2024-12-20T11:40:51.745+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-20T11:40:51.746+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"INFO","time":"2024-12-20T11:41:29.499+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T11:41:29.550+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-20T11:41:29.572+0800","caller":"rpc/rpc.go:86","msg":"Connecting to GoodsService","Consul Address":"127.0.0.1:8381"}
+{"level":"INFO","time":"2024-12-20T11:41:29.574+0800","caller":"rpc/rpc.go:100","msg":"Connecting to StockService","Consul Address":"127.0.0.1:8384"}
+{"level":"INFO","time":"2024-12-20T11:41:29.583+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-20T11:41:29.584+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"ERROR","time":"2024-12-20T12:57:46.911+0800","caller":"mq/rocketmq.go:87","msg":"Transaction parameters not found"}
+{"level":"INFO","time":"2024-12-20T12:57:46.916+0800","caller":"order/order.go:111","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A848014B8800000000645bd5600001, offsetMsgId=C0A86E8600002A9F0000000000018286, queueOffset=215, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=1]]"}
+{"level":"INFO","time":"2024-12-20T12:57:54.869+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T12:57:54.931+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-20T12:57:54.959+0800","caller":"rpc/rpc.go:86","msg":"Connecting to GoodsService","Consul Address":"127.0.0.1:8381"}
+{"level":"INFO","time":"2024-12-20T12:57:54.961+0800","caller":"rpc/rpc.go:100","msg":"Connecting to StockService","Consul Address":"127.0.0.1:8384"}
+{"level":"INFO","time":"2024-12-20T12:57:54.972+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-20T12:57:54.974+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"INFO","time":"2024-12-20T13:09:57.795+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T13:09:57.849+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-20T13:09:57.870+0800","caller":"rpc/rpc.go:86","msg":"Connecting to GoodsService","Consul Address":"127.0.0.1:8381"}
+{"level":"INFO","time":"2024-12-20T13:09:57.872+0800","caller":"rpc/rpc.go:100","msg":"Connecting to StockService","Consul Address":"127.0.0.1:8384"}
+{"level":"INFO","time":"2024-12-20T13:09:57.882+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-20T13:09:57.883+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"INFO","time":"2024-12-20T13:13:02.278+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T13:13:02.327+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-20T13:13:02.346+0800","caller":"rpc/rpc.go:86","msg":"Connecting to GoodsService","Consul Address":"127.0.0.1:8381"}
+{"level":"INFO","time":"2024-12-20T13:13:02.349+0800","caller":"rpc/rpc.go:100","msg":"Connecting to StockService","Consul Address":"127.0.0.1:8384"}
+{"level":"INFO","time":"2024-12-20T13:13:02.361+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-20T13:13:02.362+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"INFO","time":"2024-12-20T13:13:44.725+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T13:13:44.780+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-20T13:13:44.802+0800","caller":"rpc/rpc.go:86","msg":"Connecting to GoodsService","Consul Address":"127.0.0.1:8381"}
+{"level":"INFO","time":"2024-12-20T13:13:44.804+0800","caller":"rpc/rpc.go:100","msg":"Connecting to StockService","Consul Address":"127.0.0.1:8384"}
+{"level":"INFO","time":"2024-12-20T13:13:44.812+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-20T13:13:44.814+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"INFO","time":"2024-12-20T13:15:21.122+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T13:15:21.183+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-20T13:15:21.199+0800","caller":"rpc/rpc.go:86","msg":"Connecting to GoodsService","Consul Address":"127.0.0.1:8381"}
+{"level":"INFO","time":"2024-12-20T13:15:21.201+0800","caller":"rpc/rpc.go:100","msg":"Connecting to StockService","Consul Address":"127.0.0.1:8384"}
+{"level":"INFO","time":"2024-12-20T13:15:21.208+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-20T13:15:21.209+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"INFO","time":"2024-12-20T13:26:08.166+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T13:26:08.223+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-20T13:26:08.239+0800","caller":"rpc/rpc.go:86","msg":"Connecting to GoodsService","Consul Address":"127.0.0.1:8381"}
+{"level":"INFO","time":"2024-12-20T13:26:08.241+0800","caller":"rpc/rpc.go:100","msg":"Connecting to StockService","Consul Address":"127.0.0.1:8384"}
+{"level":"INFO","time":"2024-12-20T13:26:08.249+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-20T13:26:08.250+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"INFO","time":"2024-12-20T13:26:44.688+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T13:26:44.739+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-20T13:26:44.752+0800","caller":"rpc/rpc.go:86","msg":"Connecting to GoodsService","Consul Address":"127.0.0.1:8381"}
+{"level":"INFO","time":"2024-12-20T13:26:44.754+0800","caller":"rpc/rpc.go:100","msg":"Connecting to StockService","Consul Address":"127.0.0.1:8384"}
+{"level":"INFO","time":"2024-12-20T13:26:44.764+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-20T13:26:44.765+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"INFO","time":"2024-12-20T13:40:31.524+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T13:40:31.581+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-20T13:40:31.597+0800","caller":"rpc/rpc.go:86","msg":"Connecting to GoodsService","Consul Address":"127.0.0.1:8381"}
+{"level":"INFO","time":"2024-12-20T13:40:31.601+0800","caller":"rpc/rpc.go:100","msg":"Connecting to StockService","Consul Address":"127.0.0.1:8384"}
+{"level":"INFO","time":"2024-12-20T13:40:31.610+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-20T13:40:31.611+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"INFO","time":"2024-12-20T13:40:32.347+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A848017E740000000064c80c800001, offsetMsgId=C0A86E8600002A9F000000000002520F, queueOffset=334, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=1]]"}
+{"level":"INFO","time":"2024-12-20T13:40:42.893+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A848017E740000000064c833900004, offsetMsgId=C0A86E8600002A9F0000000000025794, queueOffset=335, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=2]]"}
+{"level":"INFO","time":"2024-12-20T13:41:32.728+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A848017E740000000064c8f6e00007, offsetMsgId=C0A86E8600002A9F0000000000025D19, queueOffset=336, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=3]]"}
+{"level":"INFO","time":"2024-12-20T13:47:55.349+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A848017E740000000064cecef8000a, offsetMsgId=C0A86E8600002A9F000000000002629E, queueOffset=337, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=4]]"}
+{"level":"INFO","time":"2024-12-20T13:48:07.012+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A848017E740000000064cef9f0000d, offsetMsgId=C0A86E8600002A9F0000000000026823, queueOffset=338, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=5]]"}
+{"level":"INFO","time":"2024-12-20T13:48:28.006+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A848017E740000000064cf4bf80010, offsetMsgId=C0A86E8600002A9F0000000000026DA8, queueOffset=339, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=6]]"}
+{"level":"INFO","time":"2024-12-20T13:48:48.922+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A848017E740000000064cf9e000013, offsetMsgId=C0A86E8600002A9F000000000002732D, queueOffset=340, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=7]]"}
+{"level":"ERROR","time":"2024-12-20T17:19:42.605+0800","caller":"order/order.go:101","msg":"SendMessageInTransaction failed","error":"dial tcp 192.168.110.134:10911: i/o timeout"}
+{"level":"ERROR","time":"2024-12-20T17:19:42.605+0800","caller":"handler/order.go:35","msg":"order.Create failed","error":"rpc error: code = Internal desc = create order failed"}
+{"level":"INFO","time":"2024-12-20T17:28:06.193+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T17:28:06.249+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-20T17:28:06.308+0800","caller":"rpc/rpc.go:86","msg":"Connecting to GoodsService","Consul Address":"127.0.0.1:8381"}
+{"level":"INFO","time":"2024-12-20T17:28:06.309+0800","caller":"rpc/rpc.go:100","msg":"Connecting to StockService","Consul Address":"127.0.0.1:8384"}
+{"level":"INFO","time":"2024-12-20T17:28:06.318+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-20T17:28:06.318+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"INFO","time":"2024-12-20T18:47:48.882+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A848019E180000000065e15c200001, offsetMsgId=C0A86E8400002A9F00000000000278B2, queueOffset=341, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=1]]"}
+{"level":"INFO","time":"2024-12-20T18:47:58.811+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A848019E180000000065e183300003, offsetMsgId=C0A86E8400002A9F0000000000027BFD, queueOffset=342, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=2]]"}
+{"level":"INFO","time":"2024-12-20T18:48:08.358+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A848019E180000000065e1aa400006, offsetMsgId=C0A86E8400002A9F0000000000028182, queueOffset=343, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=3]]"}
+{"level":"INFO","time":"2024-12-20T20:14:51.631+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A848019E180000000066310e78000a, offsetMsgId=C0A86E8400002A9F0000000000028941, queueOffset=344, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=4]]"}
+{"level":"INFO","time":"2024-12-20T20:28:59.570+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A848019E1800000000663dfef8000d, offsetMsgId=C0A86E8400002A9F0000000000028EC6, queueOffset=345, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=5]]"}
+{"level":"INFO","time":"2024-12-20T20:32:49.874+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T20:32:49.924+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-20T20:32:49.946+0800","caller":"rpc/rpc.go:86","msg":"Connecting to GoodsService","Consul Address":"127.0.0.1:8381"}
+{"level":"INFO","time":"2024-12-20T20:32:49.948+0800","caller":"rpc/rpc.go:100","msg":"Connecting to StockService","Consul Address":"127.0.0.1:8384"}
+{"level":"INFO","time":"2024-12-20T20:32:49.959+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-20T20:32:49.960+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"INFO","time":"2024-12-20T20:33:04.786+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A88901A3C400000000664194f00001, offsetMsgId=C0A86E8400002A9F000000000002944B, queueOffset=346, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=1]]"}
+{"level":"INFO","time":"2024-12-20T20:33:14.765+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T20:33:14.814+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-20T20:33:14.834+0800","caller":"rpc/rpc.go:86","msg":"Connecting to GoodsService","Consul Address":"127.0.0.1:8381"}
+{"level":"INFO","time":"2024-12-20T20:33:14.837+0800","caller":"rpc/rpc.go:100","msg":"Connecting to StockService","Consul Address":"127.0.0.1:8384"}
+{"level":"INFO","time":"2024-12-20T20:33:14.844+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-20T20:33:14.846+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"INFO","time":"2024-12-20T20:33:46.795+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A889019A4800000000664260100002, offsetMsgId=C0A86E8400002A9F0000000000029D16, queueOffset=349, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=1]]"}
+{"level":"INFO","time":"2024-12-20T21:04:29.074+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A889019A4800000000665e7f480005, offsetMsgId=C0A86E8400002A9F000000000002B98E, queueOffset=363, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=2]]"}
+{"level":"INFO","time":"2024-12-20T21:05:36.113+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A889019A4800000000665f85000008, offsetMsgId=C0A86E8400002A9F000000000002BF13, queueOffset=364, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=3]]"}
+{"level":"INFO","time":"2024-12-20T21:08:02.923+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A889019A48000000006661bf50000b, offsetMsgId=C0A86E8400002A9F000000000002C498, queueOffset=365, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=4]]"}
+{"level":"INFO","time":"2024-12-20T21:10:15.222+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A889019A48000000006663c6d8000e, offsetMsgId=C0A86E8400002A9F000000000002CA1D, queueOffset=366, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=5]]"}
+{"level":"INFO","time":"2024-12-20T21:11:06.008+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A889019A480000000066648a280011, offsetMsgId=C0A86E8400002A9F000000000002CFA2, queueOffset=367, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=6]]"}
+{"level":"INFO","time":"2024-12-20T21:25:34.233+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A889019A48000000006671ccb00014, offsetMsgId=C0A86E8400002A9F000000000002D527, queueOffset=368, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=7]]"}
+{"level":"INFO","time":"2024-12-20T21:25:47.265+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A889019A48000000006671ff780017, offsetMsgId=C0A86E8400002A9F000000000002DAAC, queueOffset=369, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=8]]"}
+{"level":"INFO","time":"2024-12-20T21:26:47.662+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A889019A48000000006672e9d8001a, offsetMsgId=C0A86E8400002A9F000000000002E031, queueOffset=370, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=9]]"}
+{"level":"INFO","time":"2024-12-20T21:28:00.090+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T21:28:00.146+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-20T21:28:00.162+0800","caller":"rpc/rpc.go:86","msg":"Connecting to GoodsService","Consul Address":"127.0.0.1:8381"}
+{"level":"INFO","time":"2024-12-20T21:28:00.164+0800","caller":"rpc/rpc.go:100","msg":"Connecting to StockService","Consul Address":"127.0.0.1:8384"}
+{"level":"INFO","time":"2024-12-20T21:28:00.174+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-20T21:28:00.175+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"INFO","time":"2024-12-20T21:28:13.925+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A889012DB800000000667439c80001, offsetMsgId=C0A86E8400002A9F000000000002E5B6, queueOffset=371, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=1]]"}
+{"level":"INFO","time":"2024-12-20T21:55:14.608+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T21:55:14.654+0800","caller":"redis/redis.go:27","msg":"我连上了"}
+{"level":"INFO","time":"2024-12-20T21:55:14.669+0800","caller":"rpc/rpc.go:86","msg":"Connecting to GoodsService","Consul Address":"127.0.0.1:8381"}
+{"level":"INFO","time":"2024-12-20T21:55:14.671+0800","caller":"rpc/rpc.go:100","msg":"Connecting to StockService","Consul Address":"127.0.0.1:8384"}
+{"level":"INFO","time":"2024-12-20T21:55:14.680+0800","caller":"ORDER_SERVICE/main.go:127","msg":"rpc server start","ip":"127.0.0.1","port":8385}
+{"level":"INFO","time":"2024-12-20T21:55:14.681+0800","caller":"ORDER_SERVICE/main.go:163","msg":"Serving gRPC-Gateway on http://0.0.0.0:8085"}
+{"level":"INFO","time":"2024-12-20T21:55:49.798+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A889010BB000000000668d7e880001, offsetMsgId=C0A86E8400002A9F000000000002EB3B, queueOffset=372, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=1]]"}
+{"level":"INFO","time":"2024-12-20T22:04:59.150+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A889010BB000000000668efd580004, offsetMsgId=C0A86E8400002A9F000000000002F0C0, queueOffset=373, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=2]]"}
+{"level":"ERROR","time":"2024-12-20T22:05:13.288+0800","caller":"mq/rocketmq.go:138","msg":"StockCli.ReduceStock failed","error":"rpc error: code = Unavailable desc = last connection error: connection error: desc = \"transport: Error while dialing: dial tcp 127.0.0.1:8384: connectex: No connection could be made because the target machine actively refused it.\""}
+{"level":"INFO","time":"2024-12-20T22:05:13.288+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A889010BB000000000669619a80007, offsetMsgId=C0A86E8400002A9F000000000003107E, queueOffset=389, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=3]]"}
+{"level":"ERROR","time":"2024-12-20T22:05:44.278+0800","caller":"mq/rocketmq.go:138","msg":"StockCli.ReduceStock failed","error":"rpc error: code = Unavailable desc = last connection error: connection error: desc = \"transport: Error while dialing: dial tcp 127.0.0.1:8384: connectex: No connection could be made because the target machine actively refused it.\""}
+{"level":"INFO","time":"2024-12-20T22:05:44.278+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A889010BB000000000669692c00008, offsetMsgId=C0A86E8400002A9F0000000000031292, queueOffset=390, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=4]]"}
+{"level":"INFO","time":"2024-12-20T22:06:12.622+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A889010BB0000000006696c9700009, offsetMsgId=C0A86E8400002A9F00000000000314A6, queueOffset=391, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=5]]"}
+{"level":"ERROR","time":"2024-12-20T22:06:30.599+0800","caller":"mq/rocketmq.go:138","msg":"StockCli.ReduceStock failed","error":"rpc error: code = Unavailable desc = last connection error: connection error: desc = \"transport: Error while dialing: dial tcp 127.0.0.1:8384: connectex: No connection could be made because the target machine actively refused it.\""}
+{"level":"INFO","time":"2024-12-20T22:06:30.599+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A889010BB00000000066974670000c, offsetMsgId=C0A86E8400002A9F0000000000031A2B, queueOffset=392, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=6]]"}
+{"level":"INFO","time":"2024-12-20T22:07:37.376+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A889010BB0000000006697a818000d, offsetMsgId=C0A86E8400002A9F0000000000031C3F, queueOffset=393, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=7]]"}
+{"level":"INFO","time":"2024-12-20T22:08:04.254+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A889010BB0000000006698b5a00010, offsetMsgId=C0A86E8400002A9F000000000003250A, queueOffset=396, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=8]]"}
+{"level":"INFO","time":"2024-12-20T22:08:27.086+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A889010BB00000000066990f780013, offsetMsgId=C0A86E8400002A9F0000000000032C32, queueOffset=398, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=9]]"}
+{"level":"INFO","time":"2024-12-20T22:14:02.331+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A889010BB000000000669e2c100016, offsetMsgId=C0A86E8400002A9F00000000000343BD, queueOffset=410, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=10]]"}
+{"level":"INFO","time":"2024-12-20T22:16:51.263+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A889010BB00000000066a0c0380019, offsetMsgId=C0A86E8400002A9F0000000000034C8D, queueOffset=412, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=11]]"}
+{"level":"ERROR","time":"2024-12-20T22:17:56.736+0800","caller":"mq/rocketmq.go:138","msg":"StockCli.ReduceStock failed","error":"rpc error: code = Unavailable desc = last connection error: connection error: desc = \"transport: Error while dialing: dial tcp 127.0.0.1:8384: connectex: No connection could be made because the target machine actively refused it.\""}
+{"level":"INFO","time":"2024-12-20T22:17:56.736+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A889010BB00000000066a1be20001c, offsetMsgId=C0A86E8400002A9F0000000000035213, queueOffset=413, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=12]]"}
+{"level":"INFO","time":"2024-12-20T22:18:24.951+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A889010BB00000000066a22b80001d, offsetMsgId=C0A86E8400002A9F0000000000035428, queueOffset=414, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=13]]"}
+{"level":"INFO","time":"2024-12-20T22:19:57.742+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A889010BB00000000066a396c80020, offsetMsgId=C0A86E8400002A9F00000000000359AE, queueOffset=415, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=14]]"}
+{"level":"INFO","time":"2024-12-20T22:20:43.930+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A889010BB00000000066a44a780023, offsetMsgId=C0A86E8400002A9F0000000000035F36, queueOffset=416, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=15]]"}
+{"level":"INFO","time":"2024-12-20T22:22:44.950+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A889010BB00000000066a623200026, offsetMsgId=C0A86E8400002A9F00000000000364BE, queueOffset=417, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=0]]"}
+{"level":"INFO","time":"2024-12-20T22:26:01.769+0800","caller":"order/order.go:104","msg":"p.SendMessageInTransaction success","res":"SendResult [sendStatus=0, msgIds=C0A889010BB00000000066a924a80029, offsetMsgId=C0A86E8400002A9F0000000000036A45, queueOffset=418, messageQueue=MessageQueue [topic=xx_stock_rollback, brokerName=localhost.localdomain, queueId=1]]"}

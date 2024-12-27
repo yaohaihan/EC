@@ -1,0 +1,10 @@
+{"level":"INFO","time":"2024-12-09T14:47:00.720+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-09T14:48:03.093+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-09T14:48:33.801+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-09T14:48:33.853+0800","caller":"GOODS_SERVICE/main.go:76","msg":"service start..."}
+{"level":"INFO","time":"2024-12-09T16:51:58.429+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-09T16:51:58.485+0800","caller":"GOODS_SERVICE/main.go:81","msg":"service start..."}
+{"level":"INFO","time":"2024-12-09T16:51:58.486+0800","caller":"GOODS_SERVICE/main.go:107","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-09T17:11:23.704+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-09T17:11:23.749+0800","caller":"GOODS_SERVICE/main.go:81","msg":"service start..."}
+{"level":"INFO","time":"2024-12-09T17:11:23.749+0800","caller":"GOODS_SERVICE/main.go:107","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}

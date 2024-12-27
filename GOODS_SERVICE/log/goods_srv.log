@@ -1,0 +1,109 @@
+{"level":"INFO","time":"2024-12-10T15:08:50.035+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T15:08:53.515+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T15:09:29.873+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T15:11:32.361+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T15:11:32.411+0800","caller":"GOODS_SERVICE/main.go:84","msg":"service start..."}
+{"level":"INFO","time":"2024-12-10T15:11:32.411+0800","caller":"GOODS_SERVICE/main.go:116","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T15:16:48.023+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T15:17:00.414+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T15:17:00.462+0800","caller":"GOODS_SERVICE/main.go:84","msg":"service start..."}
+{"level":"INFO","time":"2024-12-10T15:17:00.462+0800","caller":"GOODS_SERVICE/main.go:116","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T15:52:17.595+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T15:52:17.640+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T15:52:17.641+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T15:54:18.131+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T15:54:18.182+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T15:54:18.182+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T16:01:20.891+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:01:20.946+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T16:01:20.948+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T16:05:03.979+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:05:04.040+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T16:05:04.041+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T16:08:48.714+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:08:48.775+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T16:08:48.776+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T16:14:40.226+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:14:40.282+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T16:14:40.283+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T16:14:49.683+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:14:49.740+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T16:14:49.741+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T16:16:36.887+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:16:36.945+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T16:16:36.946+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T16:16:54.385+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:16:54.439+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T16:16:54.440+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T16:26:24.860+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:26:24.917+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T16:26:24.918+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T16:29:50.454+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:29:50.511+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T16:29:50.512+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T16:32:03.377+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:44:33.797+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:45:38.720+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:45:38.783+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T16:45:38.784+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T16:46:01.788+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:46:18.002+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:46:18.057+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T16:46:18.059+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T16:47:43.870+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:47:43.931+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T16:49:16.823+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:49:16.875+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T16:49:16.876+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T16:50:44.300+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:50:44.352+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T16:50:44.354+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T16:52:12.036+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:52:18.923+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T16:52:18.977+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T16:52:18.978+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-10T17:01:49.287+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-10T17:01:49.342+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-10T17:01:49.343+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-18T23:38:13.028+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-18T23:38:13.091+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-18T23:38:13.093+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-19T00:20:12.502+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-19T00:20:12.554+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-19T00:20:12.555+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-19T00:28:34.284+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-19T00:28:34.327+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-19T00:28:34.327+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-19T00:29:54.462+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-19T00:29:54.508+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-19T00:29:54.509+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-19T00:31:06.784+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-19T00:31:06.827+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-19T00:31:06.828+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-19T00:32:16.981+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-19T00:32:17.032+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-19T00:32:17.032+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-19T00:36:41.160+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-19T00:36:41.209+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-19T00:36:41.210+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-19T00:37:12.456+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-19T00:37:12.506+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-19T00:37:12.507+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-19T00:41:05.241+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-19T00:41:05.289+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-19T00:41:05.290+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-19T19:38:10.942+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-19T19:38:10.994+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-19T19:38:10.995+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8091"}
+{"level":"INFO","time":"2024-12-19T20:16:16.072+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-19T20:16:16.125+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-19T20:16:16.126+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8081"}
+{"level":"INFO","time":"2024-12-19T23:50:49.391+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-19T23:50:49.454+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-19T23:50:49.455+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8081"}
+{"level":"INFO","time":"2024-12-20T08:49:29.753+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T08:49:29.809+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-20T08:49:29.811+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8081"}
+{"level":"INFO","time":"2024-12-20T09:49:05.768+0800","caller":"logger/logger.go:41","msg":"init logger success"}
+{"level":"INFO","time":"2024-12-20T09:49:05.831+0800","caller":"GOODS_SERVICE/main.go:84","msg":"rpc server start","ip":"127.0.0.1","port":8381}
+{"level":"INFO","time":"2024-12-20T09:49:05.832+0800","caller":"GOODS_SERVICE/main.go:120","msg":"Serving gRPC-Gateway on http://0.0.0.0:8081"}

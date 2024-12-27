@@ -1,0 +1,45 @@
+syntax = "proto3";
+
+option go_package = "STOCK_SERVICE/proto;proto";
+
+import "google/api/annotations.proto";
+
+service Stock{
+  rpc SetStock(GoodsStockInfo) returns(BaseResp){
+    option(google.api.http) = {
+      post: "/v1/setstock"
+      body: "*"
+    };
+  };
+  rpc GetStock(GoodsStockInfo)returns(GoodsStockInfo){
+    option (google.api.http) = {
+      post: "/v1/getstock"
+      body: "*"
+    };
+  };
+  rpc BatchGetStock(GoodsListStock) returns(GoodsListStock);
+  rpc ReduceStock(GoodsStockInfo) returns(GoodsStockInfo){
+    option(google.api.http) = {
+      post:"/v1/reducestock"
+      body: "*"
+    };
+  };
+  rpc BatchReduceStock(GoodsListStock) returns(BaseResp);
+  rpc RollbackStock(GoodsStockInfo) returns(GoodsStockInfo);
+}
+
+
+message GoodsStockInfo{
+  int64 goodsId = 1;
+  int64 num = 2;
+  int64 OrderId = 3;
+}
+
+message GoodsListStock{
+  repeated GoodsStockInfo data = 1;
+}
+
+message BaseResp{
+  int32 code = 1;
+  string msg = 2;
+}
